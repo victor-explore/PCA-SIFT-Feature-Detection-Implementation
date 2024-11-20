@@ -1,5 +1,3 @@
-Here's a README.md for the GitHub repository:
-
 # SIFT Feature Detection Implementation
 
 This repository contains a PyTorch implementation of the Scale-Invariant Feature Transform (SIFT) algorithm for detecting keypoints and extracting feature descriptors from images. The implementation includes various image transformations and visualizations.
